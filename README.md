@@ -2,10 +2,10 @@
 
 ## Resumo
 
-💡 &nbsp;Sou fascinado por tecnologia.\
-📙 &nbsp;Adoro ensinar programação.\
-🎯 &nbsp;Tenho como objetivo, transformar a vida das pessoas através da tecnologia, assim como fui transformado.\
-🌱 &nbsp;Venho estudando mais sobre arquitetura de software e padrões de projetos;.\
+💡 &nbsp;Sou fascinado por tecnologia;\
+📙 &nbsp;Adoro ensinar programação;\
+🎯 &nbsp;Tenho como objetivo, transformar a vida das pessoas através da tecnologia, assim como fui transformado;\
+🌱 &nbsp;Venho estudando mais sobre arquitetura de software e padrões de projetos;\
 🚧 &nbsp;Atualmente, venho desempenhando o papel de Desenvolvedor FullStack na [Vórtx](https://vortx.com.br/) e tive a oportunidade de participar do principal projeto da empresa, onde o mesmo visa descomplicar o mercado de capitais através da tokenização de ativo financeiros.
 
 ## Tecnologias que já trabalhei
