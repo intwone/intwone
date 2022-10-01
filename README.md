@@ -2,19 +2,13 @@
 
 ## Resumo
 
-<br>
-
 💡 &nbsp;Sou fascinado por tecnologia.\
 📙 &nbsp;Adoro ensinar programação.\
 🎯 &nbsp;Tenho como objetivo, transformar a vida das pessoas através da tecnologia, assim como fui transformado.\
 🌱 &nbsp;Venho estudando mais sobre arquitetura de software e padrões de projetos;.\
 🚧 &nbsp;Atualmente, venho desempenhando o papel de Desenvolvedor FullStack na [Vórtx](https://vortx.com.br/) e tive a oportunidade de participar do principal projeto da empresa, onde o mesmo visa descomplicar o mercado de capitais através da tokenização de ativo financeiros.
 
-<br>
-
 ## Tecnologias que já trabalhei
-
-<br>
 
 ### Frontend
 
@@ -76,8 +70,6 @@
 
 ## Estatísticas do Github
 
-<br>
-
 <p>
   <a href="https://github.com/cassiosilva93">
   <img height="163em" src="https://github-readme-stats.vercel.app/api?username=cassiosilva93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -86,8 +78,6 @@
 </p>
 
 ## Meus Contatos
-
-<br>
 
 <p>
   <a href="https://www.linkedin.com/in/cassiooliveira93/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
