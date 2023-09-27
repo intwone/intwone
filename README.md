@@ -5,7 +5,7 @@
 💡 &nbsp;Sou fascinado por tecnologia;\
 📙 &nbsp;Adoro ensinar programação;\
 🎯 &nbsp;Tenho como objetivo, transformar a vida das pessoas através da tecnologia, assim como fui transformado;\
-🌱 &nbsp;Venho estudando mais sobre arquitetura de software, padrões de projetos e a linguagem de programação Rust;\
+🌱 &nbsp;Venho estudando mais sobre arquitetura de software, padrões de projetos e a linguagem de programação Go;\
 🚧 &nbsp;Atualmente, venho desempenhando o papel de Desenvolvedor Full Stack na Pitzi no projeto [Leapfone](https://leapfone.com.br/).
 
 ## Tecnologias que já trabalhei
