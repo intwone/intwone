@@ -3,7 +3,7 @@
 ## Resumo
 
 💡 &nbsp;Sou fascinado por tecnologia;\
-📙 &nbsp;Adoro ensinar programação;\
+📙 &nbsp;Curto ensinar programação;\
 🎯 &nbsp;Tenho como objetivo, transformar a vida das pessoas através da tecnologia, assim como fui transformado;\
 🌱 &nbsp;Venho estudando mais sobre arquitetura de software e padrões de projetos;\
 🚧 &nbsp;Atualmente, venho desempenhando o papel de Desenvolvedor Backend na Pitzi no projeto [Leapfone](https://leapfone.com.br/).
